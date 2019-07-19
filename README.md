@@ -1,4 +1,4 @@
-# darknet_service for YOLOv3
+# darknet_service for YOLOv3 (in progress)
 
 Use [darknet](https://pjreddie.com/darknet/yolo/) object detection from an API:
 
